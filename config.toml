@@ -1,0 +1,30 @@
+baseurl = "http://example.org/"
+languageCode = "en-us"
+title = "Container Security"
+theme = "hugo-cards"
+paginate = 6
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+
+[params]
+  defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = ""
+  github = ""
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "Alejandro Andreu"
+     link = "https://alejandroandr.eu"
+
