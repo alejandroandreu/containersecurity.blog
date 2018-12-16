@@ -1,4 +1,4 @@
-baseurl = "http://example.org/"
+baseurl = "https://containersecurity.blog"
 languageCode = "en-us"
 title = "Container Security"
 theme = "hugo-cards"
