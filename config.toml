@@ -3,12 +3,15 @@ languageCode = "en-us"
 title = "Container Security"
 theme = "hugo-cards"
 paginate = 6
+enableRobotsTXT = true
 
 [permalinks]
   posts = "/:year/:month/:title/"
 
 [params]
   defaultImage = "gopher.jpg"
+
+  description = "Docker Security, Kubernetes Security"
 
   facebook = ""
   quora = ""
