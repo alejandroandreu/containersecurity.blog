@@ -4,27 +4,14 @@ title = "Container Security"
 theme = "hugo-cards"
 paginate = 6
 enableRobotsTXT = true
+googleAnalytics = "UA-131420008-1"
 
 [permalinks]
   posts = "/:year/:month/:title/"
 
 [params]
   defaultImage = "gopher.jpg"
-
   description = "Docker Security, Kubernetes Security"
-
-  facebook = ""
-  quora = ""
-  twitter = ""
-  github = ""
-  email = ""
-
-  fbLikeBox = ""
-  fbAppId = ""
-  fbPageUrl = ""
-  fbPageTitle = ""
-
-  analytics = ""
   disqus = ""
 
   [params.copyright]
